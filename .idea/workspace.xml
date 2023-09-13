@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 05 added.">
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 05 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +66,9 @@
       <recent name="week_04.live_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_05_02">
+  <component name="RunManager" selected="Application.Question_05_03">
     <configuration name="Question_04_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.assignments.Question_04_24" />
-      <module name="inar-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_04.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_04_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_04.assignments.Question_04_25" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
@@ -132,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question_05_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_03" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_05_03" />
         <item itemvalue="Application.Question_05_02" />
         <item itemvalue="Application.Question_05_01" />
         <item itemvalue="Application.Question_04_24" />
         <item itemvalue="Application.Question_04_26" />
-        <item itemvalue="Application.Question_04_25" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694566772117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Week 05 added">
+      <option name="closed" value="true" />
+      <created>1694568732357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694568732357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,10 +214,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Week 05 added" />
     <MESSAGE value="Ders odevleri eklendi" />
     <MESSAGE value="Week 05 added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 05 added." />
+    <MESSAGE value="Week 05 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 05 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
