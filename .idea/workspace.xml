@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 05 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,33 +67,7 @@
       <recent name="week_04.live_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_05_03">
-    <configuration name="Question_04_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_04.assignments.Question_04_24" />
-      <module name="inar-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_04.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_04_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_04.assignments.Question_04_26" />
-      <module name="inar-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_04.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question_05_05">
     <configuration name="Question_05_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_01" />
       <module name="inar-java" />
@@ -132,13 +107,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question_05_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_04" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_05_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_05" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_05_05" />
+        <item itemvalue="Application.Question_05_04" />
         <item itemvalue="Application.Question_05_03" />
         <item itemvalue="Application.Question_05_02" />
         <item itemvalue="Application.Question_05_01" />
-        <item itemvalue="Application.Question_04_24" />
-        <item itemvalue="Application.Question_04_26" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694568732357</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Week 05 added">
+      <option name="closed" value="true" />
+      <created>1694569192758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694569192758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
