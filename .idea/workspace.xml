@@ -4,19 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 05 added">
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 06 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,33 +82,7 @@
       <recent name="week_04.live_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_05_44">
-    <configuration name="Question_05_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_39" />
-      <module name="inar-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_05_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_40" />
-      <module name="inar-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question_06_03">
     <configuration name="Question_05_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_41" />
       <module name="inar-java" />
@@ -142,13 +122,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question_06_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_01" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_06.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_06_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_06.assignments.Question_06_03" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_06.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_06_03" />
+        <item itemvalue="Application.Question_06_01" />
         <item itemvalue="Application.Question_05_44" />
         <item itemvalue="Application.Question_05_42" />
         <item itemvalue="Application.Question_05_41" />
-        <item itemvalue="Application.Question_05_40" />
-        <item itemvalue="Application.Question_05_39" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694705114234</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Week 05 added">
+      <option name="closed" value="true" />
+      <created>1695126799829</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695126799829</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Week 06 added">
+      <option name="closed" value="true" />
+      <created>1695126846200</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695126846200</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +297,8 @@
     <MESSAGE value="Ders odevleri eklendi" />
     <MESSAGE value="Week 05 added." />
     <MESSAGE value="Week 05 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 05 added" />
+    <MESSAGE value="Week 06 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 06 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
