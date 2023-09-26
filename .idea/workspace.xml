@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="Week 06 added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/live_class/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/live_class/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695128323687</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Week 06 added">
+      <option name="closed" value="true" />
+      <created>1695744312328</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695744312328</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
