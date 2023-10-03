@@ -37,3 +37,37 @@ public class Question_07_03 {
         }
 
 }
+
+/*
+
+import java.util.Scanner;
+
+public class CountOccurrences {
+    public static void main(String[] args) {
+        int[] occurrences = new int[101]; // Array to store occurrences of numbers from 1 to 100
+        Scanner scanner = new Scanner(System.in);
+
+        // Read integers and count occurrences
+        System.out.println("Enter integers between 1 and 100 (end with 0):");
+        int num;
+        do {
+            num = scanner.nextInt();
+            if (num >= 1 && num <= 100) {
+                occurrences[num]++;
+            } else if (num != 0) {
+                System.out.println("Number must be between 1 and 100.");
+            }
+        } while (num != 0);
+
+        // Display occurrences
+        System.out.println("Occurrences of each number:");
+        for (int i = 1; i <= 100; i++) {
+            if (occurrences[i] > 0) {
+                System.out.println(i + ": " + occurrences[i] + " times");
+            }
+        }
+
+        scanner.close();
+    }
+}
+*/
