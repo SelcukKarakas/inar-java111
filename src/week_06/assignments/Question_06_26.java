@@ -14,18 +14,14 @@ public class Question_06_26 {
 
             // Display 10 numbers per line, separated by exactly one space
             while (count < NUMBER_OF_PALINDROMIC_PRIMES) {
-                if (isPalindromicPrime(n)) {
-                    count++; // Increment count
-                    System.out.print(count % NUMBERS_PER_LINE == 0 ? n + "\n" : n + " ");
-                }
+
+
                 n++; // Increment index
             }
         }
 
         /** Method isPalindromicPrime returns true if number is a Prime and
          Palindrome. False otherwise */
-        public static boolean isPalindromicPrime(int num) {
-            return PrimeNumberMethod.isPrime(num) &&
-                    Exercise_06_03.isPalindrome(num);
-        }
+
+
 }

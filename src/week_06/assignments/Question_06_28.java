@@ -11,12 +11,12 @@ public class Question_06_28 {
 
             // Display all Mersenne primes with p <= 31
             for (int p = 2; p <= 31; p++) {
-                if (PrimeNumberMethod.isPrime(p)) {
+
                     System.out.printf("%-13d", p);
                     System.out.println(mersennePrime(p));
                 }
             }
-        }
+
 
         /** Method mersennePrime finds ans returns the mersenne prime of num*/
         public static int mersennePrime(int num) {
