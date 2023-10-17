@@ -1,28 +1,39 @@
 package week_06.live_class;
 
 public class Test {
-    public static void main(String[] args) {
-        int i = 1;
-        while (i <= 6) {
-            method1(i, 2); // i=6 num=2
-            i++; // i=3
-        }
-    }
 
-    public static void method1(int i, int num) {
-        for (int j = 1; j <= i; j++) {
-            System.out.print(num + " ");
-            num *= 2; // num=8
+        public static void main(String[] args) {
+            int[] numbers = {10, 3, 5, 6};
+            int result = findDifference(numbers);
+            System.out.println("Difference between the largest and smallest values: " + result);
         }
-        System.out.println();
-    }
+
+        public static int findDifference(int[] nums) {
+            if (nums.length < 1) {
+
+            }
+
+            int min = nums[0];
+            int max = nums[0];
+
+            // Iterate through the array to find the minimum and maximum values
+            for (int num : nums) {
+                if (num < min) {
+                    min = num;
+                }
+                if (num > max) {
+                    max = num;
+                }
+            }
+
+            // Calculate the difference between the largest and smallest values
+            int difference = max - min;
+            return difference;
+        }
+
+
 }
 
-// 2
-// 2 4
-// 2 4 8
-// 2 4 8 16
-// 2 4 8 16 32
-// 2 4 8 16 32 64
+
 
 

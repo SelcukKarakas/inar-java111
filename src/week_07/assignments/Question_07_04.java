@@ -5,13 +5,11 @@ import java.util.Scanner;
 public class Question_07_04 {
 
 
-    /**
-     * Main Method
-     */
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // prompt ther user to enter an scores
+        // prompt the user to enter a scores
         System.out.print("Enter scores: (negative number signifies end): ");
 
         int[] scores = new int[100];    // Initialize score array

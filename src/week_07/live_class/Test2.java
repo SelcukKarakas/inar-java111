@@ -1,6 +1,6 @@
-package week_07.assignments;
+package week_07.live_class;
 
-public class Question_07_22 {
+public class Test2 {
 
 
         /** Main method */
