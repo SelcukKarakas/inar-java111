@@ -4,27 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de06bc7f-4f1f-4ed4-b40b-2c62a5260211" name="Changes" comment="Week 08 added.">
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/Stocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_09/live_class/Test.java" afterDir="false" />
+    <list default="true" id="de06bc7f-4f1f-4ed4-b40b-2c62a5260211" name="Changes" comment="Week 09 added.">
+      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/LinearEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_09/assignments/RegularPolygon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_09/assignments/Question_09_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_09/assignments/Question_09_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week_09/assignments/Question_09_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_09/assignments/Question_09_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,12 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698329714352</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Week 09 added.">
+      <option name="closed" value="true" />
+      <created>1698758484422</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698758484422</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 07 added." />
     <MESSAGE value="Week 08 added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 08 added." />
+    <MESSAGE value="Week 09 added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 09 added." />
   </component>
 </project>
