@@ -1,4 +1,6 @@
-package week_09.assignments;
+package week_09.assignments.Question_09_07;
+
+import week_09.assignments.Account;
 
 public class Question_09_07 {
 
