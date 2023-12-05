@@ -23,7 +23,7 @@ public class Account {
         }
 
         /** Creates an account with the specified id and initial balance */
-        Account(int newId, double newBalance) {
+        public Account(int newId, double newBalance) {
             id = newId;
             balance = newBalance;
             dateCreated = new Date();
